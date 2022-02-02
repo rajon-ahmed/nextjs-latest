@@ -1,7 +1,9 @@
 import React from 'react';
 
-export const index = () => {
+const index = () => {
   return <div>
-      <h3>this is testing</h3>
+    <h3>This is after merge the review branch</h3>
   </div>;
 };
+
+export default index;
